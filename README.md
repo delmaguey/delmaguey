@@ -9,7 +9,7 @@ With proven experience delivering secure healthcare systems for U.S. medical org
 ---
 
 ### 🚀 What I'm Currently Doing
-- 💻 **Building:** A .NET Web API to simulate transactions levearing Azure Service bus for a stateless comunication and event-driven architecture,also adding Machine Learning focused on predicting fraud based on historical data, applying both regression techniques.
+- 💻 **Building:** A .NET Web API to simulate transactions leveraging Azure Service bus for a stateless communication and event-driven architecture,also adding Machine Learning focused on predicting fraud based on historical data, applying both regression techniques.
 - 🧠 **Learning:** Consistently tackling algorithmic problem-solving and system design challenges to keep my skills sharp.
 
 ---
