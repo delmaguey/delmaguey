@@ -1,10 +1,12 @@
-# Hi there, I'm Daniel Pérez J. 👋
+<h1 align="center"># Hi there, I'm Daniel Pérez J. 👋</h1>
 
-### ☁️ Senior .NET Backend Engineer | Azure Certified | Cloud & Distributed Systems
+<h3 align="center">### ☁️ Senior .NET Backend Engineer | Azure Certified | Cloud & Distributed Systems</h3>
 
+<p align="center">
 I am a Senior Backend Engineer with 10+ years of experience architecting and building enterprise-grade backend systems. I specialize in the C#/.NET ecosystem and Microsoft Azure, designing highly scalable REST APIs and event-driven distributed applications. 
 
-With proven experience delivering secure healthcare systems for U.S. medical organizations, I am passionate about system reliability, performance optimization, and robust cloud infrastructure. 
+With proven experience delivering secure healthcare systems for U.S. medical organizations, I am passionate about system reliability, performance optimization, and robust cloud infrastructure.
+</p>
 
 ---
 
